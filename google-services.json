@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255596534684",
+    "project_id": "riktamhackathon",
+    "storage_bucket": "riktamhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255596534684:android:9911f9253b37d315b58659",
+        "android_client_info": {
+          "package_name": "com.example.riktam_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255596534684-3gord3ehjg2tfs154ke1mnq15sg04ndl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcf3IqdM2w3ylBaBYZEELQmB1BkAbO548"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255596534684-3gord3ehjg2tfs154ke1mnq15sg04ndl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
